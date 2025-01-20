@@ -1,7 +1,7 @@
 # Machine-Leaning-Subject-Assignments
 Various Experiments from my Machine Learning Lab Educational Course
 
-This repository has 10 .ipynb and 2 pdf files of all the experiments I performed in the Machine Learning Lab Course;
+This repository has 10 .ipynb, 2 pdf files and 2 datasets of all the experiments I performed in the Machine Learning Lab Course;
 All of them were run on Google Colab;
 Unfortunately I don't have datasets for all of them but I assure you you can find them in kaggle with minimum effort
 The Experiments are as follows:
